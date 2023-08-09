@@ -12,3 +12,7 @@ instagram reshare bot , reshare targets reels posts when they post anything new 
 
 
 <h2>Good Luck</h2>
+
+<h3 align="center">Visitors Counts👀</h3>
+<a href="https://github.com/strngprogrammer/IGReshare"><img alt="Cute Count" 
+src="https://count.getloli.com/get/@IGReshare?theme=rule34" /></a>
